@@ -48,6 +48,16 @@ const styles = StyleSheet.create({
         color: 'white',
         textAlign: 'center',
         fontSize: 25
+    },
+    logoutBtn:{
+        marginTop: 10,
+        paddingHorizontal: 20,
+        paddingVertical: 5,
+        borderRadius: 10,
+        backgroundColor: 'red'
+    },
+    logoutBtntxt:{
+        color: 'white'
     }
 });
 
